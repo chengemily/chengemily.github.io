@@ -3,6 +3,6 @@ permalink: /contact/
 title: "Contact"
 ---
 
-Email me at [suen.oscar@gmail.com](mailto:suen.oscar@gmail.com).
+Email me at [emcheng@mit.edu](mailto:emcheng@mit.edu).
 
-You can also contact me via [Twitter](https://twitter.com/oscarsuen).
+You can also contact me via [Twitter](https://twitter.com/plantcity_fl).

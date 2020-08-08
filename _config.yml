@@ -66,7 +66,7 @@ plugins:
 
 author:
   name: *name
-  avatar: "/assets/images/117386491_301193634270549_3920328674401312361_n.jpg"
+  avatar: "/assets/images/IMG_8752.JPG"
   bio: "MIT CS + Math '20, MEng '21.  Member of MIT Infolab in CSAIL. Interested in NLP and language acquisition."
   location: "Cambridge, MA"
   employer: "MIT"

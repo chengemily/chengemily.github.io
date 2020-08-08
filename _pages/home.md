@@ -3,10 +3,8 @@ permalink: /
 title: ""
 ---
 
-*This website is a Work in Progress*
-
-I am a MIT ('20) Computer Science and Economics student interested in machine learning and causal inference.
+I am an MIT student ('20, MEng '21) interested in NLP, specifically in the context of cross-lingual generalization.
 
 ## Quick Links
-- [Github](https://github.com/oscarsuen)
-- [Opioids Paper](https://docs.google.com/viewer?url=https://github.com/oscarsuen/opioid_lfp/raw/master/paper/paper.pdf)
+- [CV]: /assets/CV_2020.pdf
+- [Github](https://github.com/chengemily)

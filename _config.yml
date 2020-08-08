@@ -78,10 +78,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/oscarsuen"
+      url: "https://twitter.com/plantcity_fl"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/oscarsuen"
+      url: "https://github.com/chengemily"
 
 defaults:
   # _posts

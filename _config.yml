@@ -67,7 +67,7 @@ plugins:
 author:
   name: *name
   avatar: "/assets/images/117386491_301193634270549_3920328674401312361_n.jpg"
-  bio: "MIT '20 (CS + Math) interested in NLP and language acquisition."
+  bio: "MIT CS + Math '20, MEng '21.  Member of MIT Infolab in CSAIL. Interested in NLP and language acquisition."
   location: "Cambridge, MA"
   employer: "MIT"
   email: *email

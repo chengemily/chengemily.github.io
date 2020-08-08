@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
-title: "Oscar Suen"
-name: &name "Oscar Suen"
-email: &email "suen.oscar@gmail.com"
-description: "Oscar Suen Personal Website"
-url: &url "https://oscarsuen.github.io"
+title: "Emily Cheng"
+name: &name ""
+email: &email "emcheng@mit.edu"
+description: "Emily Cheng Personal Website"
+url: &url "https://chengemily.github.io"
 baseurl: ""
-repository: "oscarsuen/oscarsuen.github.io"
-twitter_username: &twitter "oscarsuen"
-github_username: &github "oscarsuen"
+repository: "chengemily/chengemily.github.io"
+twitter_username: &twitter "plantcity_fl"
+github_username: &github "chengemily"
 minimal_mistakes_skin: default
 search: false
 
@@ -67,7 +67,7 @@ plugins:
 author:
   name: *name
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "MIT '20 (CS + Econ) interested in machine learning and causal inference."
+  bio: "MIT '20 (CS + Math) interested in NLP and language acquisition."
   location: "Cambridge, MA"
   employer: "MIT"
   email: *email

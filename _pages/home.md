@@ -6,5 +6,5 @@ I am an MIT student ('20, MEng '21) in the CSAIL Infolab group interested in NLP
 
 You can access my CV [here][pdf-link].
 
-[pdf-link]: /assets/CV_2020.pdf
+[pdf-link]: /assets/CV_2021.pdf
 
